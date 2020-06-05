@@ -1,0 +1,13 @@
+# IDE
+.idea/
+.git/
+
+# Temporal files
+*~
+
+# Python
+*cache*
+__pycache__/
+
+# Data
+data/

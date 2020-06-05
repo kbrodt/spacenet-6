@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Temporal files
+*~
+
+# Python
+*cache*
+
+# Data
+*.csv
